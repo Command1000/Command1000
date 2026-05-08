@@ -1,5 +1,5 @@
 # :verbose Noah --info
-# ~/Noah (ECE Student)
+# ~/Noah 
 
 I am a student in the Department of Electrical and Computer Engineering (ECE) based in Taiwan. I view this GitHub profile as a persistent repository of my technical growth—a "game save" where every project represents progress in my journey through both hardware and software.
 
